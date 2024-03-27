@@ -7,3 +7,6 @@ Forage - March 2024
    trends to inform strategic decisions
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
+<p align="center">
+  <img width="400" height="200" src="hzmoNKtzvAzXsEqx8_Accenture North America_completion_certificate.pdf">
+</p>
