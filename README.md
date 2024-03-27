@@ -8,4 +8,4 @@ Forage - March 2024
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-[Link to PDF]()
+[Link to PDF](https://github.com/subhasish9ghosh5/Certification/blob/main/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_completion_certificate.pdf)
