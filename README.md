@@ -12,4 +12,4 @@ Forage - March 2024
 
 
 * This intensive program has equipped me with a comprehensive toolkit for handling data, from cleaning and organizing to advanced analysis and visualization.
-[Link to PDF]()
+[Link to PDF](https://github.com/subhasish9ghosh5/Certification/blob/main/EXCEL%20QUIZE.pdf)
