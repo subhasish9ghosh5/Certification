@@ -14,6 +14,7 @@ Forage - March 2024
 # This intensive program has equipped me with a comprehensive toolkit for handling data, from cleaning and organizing to advanced analysis and visualization.
 
 Thrilled to share that I've recently attained certification in Data Analysis using Excel! 📊💻 This intensive program has equipped me with a comprehensive toolkit for handling data, from cleaning and organizing to advanced analysis and visualization. With a keen eye for detail and a passion for uncovering meaningful insights, I'm prepared to tackle complex challenges and drive informed decision-making. Let's connect to discuss how my expertise in Excel can contribute to your organization's success, or to explore collaborations in the realm of data analytics. Together, let's unlock the power of data.
+
 [Link to PDF](https://github.com/subhasish9ghosh5/Certification/blob/main/EXCEL%20QUIZE.pdf)
 
 # python for data analysis.
