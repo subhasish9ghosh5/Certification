@@ -1,4 +1,4 @@
-Accenture North America Data Analytics and Visualization Job Simulation on
+# Accenture North America Data Analytics and Visualization Job Simulation on
 Forage - March 2024
 
  * Completed a simulation focused on advising a hypothetical social media client
@@ -17,4 +17,4 @@ Thrilled to share that I've recently attained certification in Data Analysis usi
 [Link to PDF](https://github.com/subhasish9ghosh5/Certification/blob/main/EXCEL%20QUIZE.pdf)
 
 # python for data analysis.
-[link to pdf](python for data analysis.pdf)
+[link to pdf](https://github.com/subhasish9ghosh5/Certification/blob/main/python%20for%20data%20analysis.pdf)
